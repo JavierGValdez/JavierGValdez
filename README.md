@@ -37,7 +37,6 @@ Repositorio propio con exploración y segmentación de clientes, visualización 
 
 - 📧 javiervaldez145@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/javiervaldez2/)  
-- 💻 [GitHub](https://github.com/javivaldez49)
 
 ---
 
