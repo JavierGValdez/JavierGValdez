@@ -16,14 +16,6 @@ Participé en el análisis, limpieza y transformación del dataset, desarrolland
 #### 🔹 [Oil & Gas - Análisis de yacimientos (proyecto colaborativo)](https://github.com/matvergara/OilGas-ICD-TPF)  
 Colaboré en este proyecto grupal centrado en la exploración y modelado de datos de yacimientos de hidrocarburos. Trabajé en la limpieza del dataset, categorización de variables, análisis exploratorio y modelado predictivo para propiedades como **porosidad y permeabilidad**.
 
-#### 🔹 [Análisis de denuncias por robo de vehículos](https://github.com/javivaldez49/CursoDataScience)  
-Limpieza de datos, visualización con Seaborn/Matplotlib y hallazgos clave sobre patrones de robo.
-
-#### 🔹 [Análisis de clientes de tarjetas de crédito](https://github.com/javivaldez49/analisis-clientes-tarjeta)  
-Repositorio propio con exploración y segmentación de clientes, visualización de KPIs en Power BI y manejo de base de datos en SQL Server.
-
----
-
 ### 🛠 Tecnologías que manejo
 
 - **Lenguajes:** Python, SQL, R  
