@@ -10,7 +10,7 @@ Soy analista de datos en formación, y dispuesto a afrontar nuevos desafíos. Tr
 
 ### 📂 Proyectos destacados
 
-#### 🔹 [CreditDefault-IAA-TPF (proyecto colaborativo)](https://github.com/JavierGValdez) 
+#### 🔹 [De la Deuda al Dato: Machine Learning para predecir Defaults (proyecto colaborativo)](https://github.com/JavierGValdez/CreditDefault-IAA-TPF.git) 
 
 #### 🔹 [Oil & Gas - Análisis de yacimientos (proyecto colaborativo)](https://github.com/matvergara/OilGas-ICD-TPF)  
 Colaboré en este proyecto grupal centrado en la exploración y modelado de datos de yacimientos de hidrocarburos. Trabajé en la limpieza del dataset, categorización de variables, análisis exploratorio y modelado predictivo para propiedades como **porosidad y permeabilidad**.
