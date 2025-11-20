@@ -1,6 +1,4 @@
-## ¡Hola! 👋 Soy Javier Valdez
-
----
+## ¡Hola! 👋 Soy Javi.
 
 ### 🚀 Sobre mí
 
